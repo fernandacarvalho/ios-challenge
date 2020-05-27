@@ -1,0 +1,84 @@
+
+[
+    {
+        "id": 1,
+        "title": "Orlando para toda a família",
+        "name": "Pacote Orlando 2021",
+        "bannerImageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/14/1f/c8/10/universal-studios-entrance.jpg",
+        "locationImageUrl": "https://q-cf.bstatic.com/images/hotel/max1024x768/193/193500496.jpg",
+        "value": 1999.00,
+        "installments": "Em até 12x sem juros",
+        "packageDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus metus massa, in porta turpis maximus a. Nam lacinia elementum arcu, in dapibus lectus imperdiet eget. Vivamus sit amet neque non sem vulputate tempus. Phasellus mattis rhoncus dolor, vel feugiat nibh tristique nec. Phasellus et ultricies lorem. Mauris finibus eros est, a feugiat justo ullamcorper vel. Sed euismod justo lacus, eu porttitor diam ultrices ut. Donec ac ex nunc. Donec sodales leo ut dui lacinia, sagittis mattis dui vulputate. Suspendisse id porttitor dolor, ac ullamcorper quam. Phasellus posuere fermentum fringilla. Sed dui velit, elementum et congue id, maximus facilisis sapien. Quisque mollis sem purus, eu interdum lacus cursus ac. Nullam sollicitudin finibus gravida."
+    }, 
+    {
+        "id": 2,
+        "title": "Descubra as maravilhas de Maceió",
+        "name": "Maceió Férias 2020",
+        "bannerImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Panorama_de_Macei%C3%B3.jpg/390px-Panorama_de_Macei%C3%B3.jpg",
+        "locationImageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/10/09/b4/30/salinas-maceio-all-inclusive.jpg",
+        "value": 699.00,
+        "installments": "Em até 12x sem juros",
+        "packageDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus metus massa, in porta turpis maximus a. Nam lacinia elementum arcu, in dapibus lectus imperdiet eget. Vivamus sit amet neque non sem vulputate tempus. Phasellus mattis rhoncus dolor, vel feugiat nibh tristique nec. Phasellus et ultricies lorem. Mauris finibus eros est, a feugiat justo ullamcorper vel. Sed euismod justo lacus, eu porttitor diam ultrices ut. Donec ac ex nunc. Donec sodales leo ut dui lacinia, sagittis mattis dui vulputate. Suspendisse id porttitor dolor, ac ullamcorper quam. Phasellus posuere fermentum fringilla. Sed dui velit, elementum et congue id, maximus facilisis sapien. Quisque mollis sem purus, eu interdum lacus cursus ac. Nullam sollicitudin finibus gravida."
+    },
+    {
+        "id": 3,
+        "title": "Férias inesquecíveis em Nova Iorque",
+        "name": "Pacote NYC",
+        "bannerImageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/9a/e3/1d/freedom-tower.jpg",
+        "locationImageUrl": "https://m.fourseasons.com/content/dam/fourseasons/images/web/NYF/NYF_1351_aspect16x9.jpg/jcr:content/renditions/cq5dam.web.720.405.jpeg",
+        "value": 2399.00,
+        "installments": "Em até 12x sem juros",
+        "packageDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus metus massa, in porta turpis maximus a. Nam lacinia elementum arcu, in dapibus lectus imperdiet eget. Vivamus sit amet neque non sem vulputate tempus. Phasellus mattis rhoncus dolor, vel feugiat nibh tristique nec. Phasellus et ultricies lorem. Mauris finibus eros est, a feugiat justo ullamcorper vel. Sed euismod justo lacus, eu porttitor diam ultrices ut. Donec ac ex nunc. Donec sodales leo ut dui lacinia, sagittis mattis dui vulputate. Suspendisse id porttitor dolor, ac ullamcorper quam. Phasellus posuere fermentum fringilla. Sed dui velit, elementum et congue id, maximus facilisis sapien. Quisque mollis sem purus, eu interdum lacus cursus ac. Nullam sollicitudin finibus gravida."
+    },
+    {
+        "id": 4,
+        "title": "No paraíso: conheça Arraial do cabo",
+        "name": "Arraial do Cabo All Inclusive",
+        "bannerImageUrl": "https://img.stpu.com.br/?img=https://s3.amazonaws.com/pu-mgr/default/a0RG000000i1fvvMAA/56c45ff1e4b07ef0285857e6.jpg&w=710&h=462",
+        "locationImageUrl": "https://r-cf.bstatic.com/images/hotel/max1280x900/162/162022734.jpg",
+        "value": 700.00,
+        "installments": "Em até 12x sem juros",
+        "packageDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus metus massa, in porta turpis maximus a. Nam lacinia elementum arcu, in dapibus lectus imperdiet eget. Vivamus sit amet neque non sem vulputate tempus. Phasellus mattis rhoncus dolor, vel feugiat nibh tristique nec. Phasellus et ultricies lorem. Mauris finibus eros est, a feugiat justo ullamcorper vel. Sed euismod justo lacus, eu porttitor diam ultrices ut. Donec ac ex nunc. Donec sodales leo ut dui lacinia, sagittis mattis dui vulputate. Suspendisse id porttitor dolor, ac ullamcorper quam. Phasellus posuere fermentum fringilla. Sed dui velit, elementum et congue id, maximus facilisis sapien. Quisque mollis sem purus, eu interdum lacus cursus ac. Nullam sollicitudin finibus gravida."
+    },
+    {
+        "id": 5,
+        "title": "Orlando para toda a família",
+        "name": "Pacote Orlando 2021",
+        "bannerImageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/14/1f/c8/10/universal-studios-entrance.jpg",
+        "locationImageUrl": "https://q-cf.bstatic.com/images/hotel/max1024x768/193/193500496.jpg",
+        "value": 1999.00,
+        "installments": "Em até 12x sem juros",
+        "packageDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus metus massa, in porta turpis maximus a. Nam lacinia elementum arcu, in dapibus lectus imperdiet eget. Vivamus sit amet neque non sem vulputate tempus. Phasellus mattis rhoncus dolor, vel feugiat nibh tristique nec. Phasellus et ultricies lorem. Mauris finibus eros est, a feugiat justo ullamcorper vel. Sed euismod justo lacus, eu porttitor diam ultrices ut. Donec ac ex nunc. Donec sodales leo ut dui lacinia, sagittis mattis dui vulputate. Suspendisse id porttitor dolor, ac ullamcorper quam. Phasellus posuere fermentum fringilla. Sed dui velit, elementum et congue id, maximus facilisis sapien. Quisque mollis sem purus, eu interdum lacus cursus ac. Nullam sollicitudin finibus gravida."
+    },
+    {
+        "id": 6,
+        "title": "Descubra as maravilhas de Maceió",
+        "name": "Maceió Férias 2020",
+        "bannerImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Panorama_de_Macei%C3%B3.jpg/390px-Panorama_de_Macei%C3%B3.jpg",
+        "locationImageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/10/09/b4/30/salinas-maceio-all-inclusive.jpg",
+        "value": 699.00,
+        "installments": "Em até 12x sem juros",
+        "packageDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus metus massa, in porta turpis maximus a. Nam lacinia elementum arcu, in dapibus lectus imperdiet eget. Vivamus sit amet neque non sem vulputate tempus. Phasellus mattis rhoncus dolor, vel feugiat nibh tristique nec. Phasellus et ultricies lorem. Mauris finibus eros est, a feugiat justo ullamcorper vel. Sed euismod justo lacus, eu porttitor diam ultrices ut. Donec ac ex nunc. Donec sodales leo ut dui lacinia, sagittis mattis dui vulputate. Suspendisse id porttitor dolor, ac ullamcorper quam. Phasellus posuere fermentum fringilla. Sed dui velit, elementum et congue id, maximus facilisis sapien. Quisque mollis sem purus, eu interdum lacus cursus ac. Nullam sollicitudin finibus gravida."
+    },
+    {
+        "id": 7,
+        "title": "Férias inesquecíveis em Nova Iorque",
+        "name": "Pacote NYC",
+        "bannerImageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/9a/e3/1d/freedom-tower.jpg",
+        "locationImageUrl": "https://m.fourseasons.com/content/dam/fourseasons/images/web/NYF/NYF_1351_aspect16x9.jpg/jcr:content/renditions/cq5dam.web.720.405.jpeg",
+        "value": 2399.00,
+        "installments": "Em até 12x sem juros",
+        "packageDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus metus massa, in porta turpis maximus a. Nam lacinia elementum arcu, in dapibus lectus imperdiet eget. Vivamus sit amet neque non sem vulputate tempus. Phasellus mattis rhoncus dolor, vel feugiat nibh tristique nec. Phasellus et ultricies lorem. Mauris finibus eros est, a feugiat justo ullamcorper vel. Sed euismod justo lacus, eu porttitor diam ultrices ut. Donec ac ex nunc. Donec sodales leo ut dui lacinia, sagittis mattis dui vulputate. Suspendisse id porttitor dolor, ac ullamcorper quam. Phasellus posuere fermentum fringilla. Sed dui velit, elementum et congue id, maximus facilisis sapien. Quisque mollis sem purus, eu interdum lacus cursus ac. Nullam sollicitudin finibus gravida."
+    },
+    {
+        "id": 8,
+        "title": "No paraíso: conheça Arraial do cabo",
+        "name": "Arraial do Cabo All Inclusive",
+        "bannerImageUrl": "https://img.stpu.com.br/?img=https://s3.amazonaws.com/pu-mgr/default/a0RG000000i1fvvMAA/56c45ff1e4b07ef0285857e6.jpg&w=710&h=462",
+        "locationImageUrl": "https://r-cf.bstatic.com/images/hotel/max1280x900/162/162022734.jpg",
+        "value": 700.00,
+        "installments": "Em até 12x sem juros",
+        "packageDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin luctus metus massa, in porta turpis maximus a. Nam lacinia elementum arcu, in dapibus lectus imperdiet eget. Vivamus sit amet neque non sem vulputate tempus. Phasellus mattis rhoncus dolor, vel feugiat nibh tristique nec. Phasellus et ultricies lorem. Mauris finibus eros est, a feugiat justo ullamcorper vel. Sed euismod justo lacus, eu porttitor diam ultrices ut. Donec ac ex nunc. Donec sodales leo ut dui lacinia, sagittis mattis dui vulputate. Suspendisse id porttitor dolor, ac ullamcorper quam. Phasellus posuere fermentum fringilla. Sed dui velit, elementum et congue id, maximus facilisis sapien. Quisque mollis sem purus, eu interdum lacus cursus ac. Nullam sollicitudin finibus gravida."
+    }
+]
+

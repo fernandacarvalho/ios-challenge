@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="lxX-2v-LAv">
+    <device id="retina4_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Packages List Controller-->
+        <scene sceneID="UtN-sV-eVL">
+            <objects>
+                <viewController storyboardIdentifier="PackageListView" useStoryboardIdentifierAsRestorationIdentifier="YES" id="Gw4-8a-DcH" customClass="PackagesListController" customModule="Viajabessa" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="n2r-2Z-wVS"/>
+                        <viewControllerLayoutGuide type="bottom" id="wbU-Ui-XqY"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="2Ga-tJ-eaT">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="524"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="1" sectionFooterHeight="1" translatesAutoresizingMaskIntoConstraints="NO" id="0RZ-YG-Eif">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="524"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="0RZ-YG-Eif" firstAttribute="leading" secondItem="2Ga-tJ-eaT" secondAttribute="leading" id="HOs-8m-3Y4"/>
+                            <constraint firstItem="0RZ-YG-Eif" firstAttribute="top" secondItem="n2r-2Z-wVS" secondAttribute="bottom" id="Nxy-7q-s2v"/>
+                            <constraint firstAttribute="trailing" secondItem="0RZ-YG-Eif" secondAttribute="trailing" id="RgQ-1G-e7s"/>
+                            <constraint firstItem="wbU-Ui-XqY" firstAttribute="top" secondItem="0RZ-YG-Eif" secondAttribute="bottom" id="lDw-Eu-92I"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="bOJ-wS-6p8">
+                        <barButtonItem key="backBarButtonItem" title=" " id="Lr8-Nq-aPn"/>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="tableView" destination="0RZ-YG-Eif" id="Jnf-6l-IfU"/>
+                        <segue destination="POf-CQ-VYC" kind="show" identifier="PushPackageDetail" id="2ci-JJ-zWg"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="P3c-Hu-pmb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1102.5" y="115.14084507042254"/>
+        </scene>
+        <!--PackageDetailView-->
+        <scene sceneID="jcv-P2-JDt">
+            <objects>
+                <viewControllerPlaceholder storyboardName="PackageDetailView" id="POf-CQ-VYC" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="rqw-Eb-oGR">
+                        <barButtonItem key="backBarButtonItem" title="voltar" id="7LI-kf-YE3"/>
+                    </navigationItem>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nmp-ac-V0x" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1823" y="115"/>
+        </scene>
+        <!--Main Navigation Controller-->
+        <scene sceneID="X88-oM-1Yv">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="lxX-2v-LAv" customClass="MainNavigationController" customModule="Viajabessa" customModuleProvider="target" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" translucent="NO" id="NUD-Vm-KO5">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="Gw4-8a-DcH" kind="relationship" relationship="rootViewController" id="7f2-GN-h9k"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="SEJ-Ff-jXw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="105" y="115.14084507042254"/>
+        </scene>
+    </scenes>
+</document>
